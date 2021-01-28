@@ -34,8 +34,9 @@ Debug = False
 #ALLOWED_HOSTS = ['web']
 #ALLOWED_HOSTS = ['127.0.0.1']
 #ALLOWED_HOSTS = ['*']
-ALLOWED_HOSTS = ['127.0.0.1','web','111.67.193.29','fumuxin.online']
-#ALLOWED_HOSTS = ['111.67.193.29']
+#ALLOWED_HOSTS = ['127.0.0.1','web','111.67.193.29','fumuxin.online']
+#ALLOWED_HOSTS = ['web','111.67.193.29','fumuxin.online']
+ALLOWED_HOSTS = ['111.67.193.29']
 # Application definition
 
 INSTALLED_APPS = [
